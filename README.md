@@ -6,7 +6,7 @@ This repository includes wireframes (also known as page schematic or screen blue
 
 The source files of this project can be found in the [source](source) folder. All wireframes are created with [draw.io](https://www.draw.io/), which is a free online diagram software.
 
-Export of source files (png, jpg, svg and so on) are stored in the export folder.
+Export of source files (png, jpg, pdf, svg and so on) are stored in the [export](export) folder.
 
 ## Base template
 
