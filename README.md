@@ -30,3 +30,12 @@ The archive shows all past votings with official results in comparison to apfels
 * A detail button that leads to more information (description, movie, voters with their name and the areay where they live)
 
 ![archive](export/archive.png)
+
+
+## Voting example
+
+Detailed view of a voting.
+* Voting title
+* Voters with profile picture, name, bio and residence
+
+![voting example](export/voting-example.png)
