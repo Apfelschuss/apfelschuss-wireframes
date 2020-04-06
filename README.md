@@ -23,10 +23,10 @@ The homepage presents upcoming federal popular votes. Every vote includes follow
 
 ## Archive
 
-The homepage presents upcoming federal popular votes. Every vote includes following fields:
+The archive shows all past votings with official results in comparison to apfelschuss.io voters with a pie chart.
 * Voting title
 * Total numbers of voters
-* Pie chart with proponent and opponent
+* Pie chart with proponent and opponent as well as official result
 * A detail button that leads to more information (description, movie, voters with their name and the areay where they live)
 
 ![archive](export/archive.png)
