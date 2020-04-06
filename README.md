@@ -8,8 +8,25 @@ The source files of this project can be found in the [source](source) folder. Al
 
 Export of source files (png, jpg, pdf, svg and so on) are stored in the [export](export) folder.
 
-## Base template
-
 The base template is a 1920 x 1080px browser window.
 
+## Home
+
+The homepage presents upcoming federal popular votes. Every vote includes following fields:
+* Voting title
+* Total numbers of voters
+* Pie chart with proponent and opponent
+* A detail button that leads to more information (description, movie, voters with their name and the areay where they live)
+
 ![home](export/home.png)
+
+
+## Archive
+
+The homepage presents upcoming federal popular votes. Every vote includes following fields:
+* Voting title
+* Total numbers of voters
+* Pie chart with proponent and opponent
+* A detail button that leads to more information (description, movie, voters with their name and the areay where they live)
+
+![archive](export/archive.png)
