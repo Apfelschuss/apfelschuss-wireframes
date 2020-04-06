@@ -8,7 +8,7 @@ The source files of this project can be found in the [source](source) folder. Al
 
 Export of source files (png, jpg, pdf, svg and so on) are stored in the [export](export) folder.
 
-The base template is a 1920 x 1080px browser window.
+The base template is a 1920x1080 px browser window.
 
 ## Home
 
@@ -37,5 +37,6 @@ The archive shows all past votings with official results in comparison to apfels
 Detailed view of a voting.
 * Voting title
 * Voters with profile picture, name, bio and residence
+* The icon in the top right corner of every user profile is the [canton flag](https://en.wikipedia.org/wiki/Cantons_of_Switzerland#List)
 
 ![voting example](export/voting-example.png)
