@@ -40,3 +40,28 @@ Detailed view of a voting.
 * The icon in the top right corner of every user profile is the [canton flag](https://en.wikipedia.org/wiki/Cantons_of_Switzerland#List)
 
 ![voting example](export/voting-example.png)
+
+
+## Profile example
+
+Detailed view of a user that shows its votings.
+* Profile picture with name, bio and residence
+* Past votings goupped in categories with thumb up or down
+
+![profile](export/profile.png)
+
+
+## Profile update
+
+Detailed view of a user that shows its profile.
+* Profile picture with name, bio and residence
+* Residence according [this list](https://postleitzahlenschweiz.ch/tabelle/)
+
+![profile update](export/profile-update.png)
+
+
+## Login
+
+Login as provided by Django.
+
+![login](export/login.png)
